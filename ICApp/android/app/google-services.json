@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1001211467078",
+    "firebase_url": "https://applocalizacaocefet-default-rtdb.firebaseio.com",
+    "project_id": "applocalizacaocefet",
+    "storage_bucket": "applocalizacaocefet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001211467078:android:34e3fed78c84c179b9c147",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9pHQ0LMOfBDpFO47SfL45koZPhTNEdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001211467078:android:0c55172278df1e19b9c147",
+        "android_client_info": {
+          "package_name": "com.applocalizacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9pHQ0LMOfBDpFO47SfL45koZPhTNEdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001211467078:android:719a2e537547977fb9c147",
+        "android_client_info": {
+          "package_name": "com.icapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9pHQ0LMOfBDpFO47SfL45koZPhTNEdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
